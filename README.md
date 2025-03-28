@@ -36,11 +36,12 @@ python main.py --input data/sample_video.mp4
 - `data/` – примеры данных
 - `src/` – исходный код
 - `notebooks/` – Jupyter ноутбуки для анализа
+- `presentations/` – наши презентации для выступлений
 - `README.md` – описание проекта
 
 ## Метрики качества
 - Pricision - 
-- Recoll - 
+- Recall - 
 - F1 - 
 
 ## Конфигурация модели
