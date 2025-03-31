@@ -11,26 +11,6 @@
 - OpenCV
 - NumPy
 
-## Установка
-1. Клонируйте репозиторий:
-   ```sh
-   git clone https://github.com/Anakhsup/The-Video-Operation-Recognition-Project
-   ```
-2. Перейдите в папку проекта:
-   ```sh
-   cd The-Video-Operation-Recognition-Project
-   ```
-3. Установите зависимости:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Использование
-Запустите основной скрипт для распознавания операций:
-```sh
-python main.py --input data/sample_video.mp4 
-```
-
 ## Архитектура проекта
 - `models/` – модели нейронных сетей
 - `data/` – примеры данных
@@ -40,9 +20,9 @@ python main.py --input data/sample_video.mp4
 - `README.md` – описание проекта
 
 ## Метрики качества
-- Pricision - 
-- Recall - 
-- F1 - 
+- Pricision - 0.9281
+- Recall - 0.92
+- F1 - 0.9178
 
 ## Конфигурация модели
 
